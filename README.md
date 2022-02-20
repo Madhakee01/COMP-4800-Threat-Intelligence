@@ -1,4 +1,4 @@
-# COMP-4800-Threat-Intelligence
+# COMP 4800 Selected Topics in Software Engineering
 
 Topic: Threat Intelligence and Vulnerability Framework for Automotive Industry
 **** yeeee topic has been approved by the professor. 
