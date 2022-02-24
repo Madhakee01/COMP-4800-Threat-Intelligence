@@ -1,5 +1,5 @@
 
-Notes from the chapters that i thought would be useful for my research. 
+My notes from the chapters that i thought would be useful for my research. 
 
 Chapter 1 - Overview of the Current State of Cybersecurity in the Automotive
 Industry 
