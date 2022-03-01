@@ -6,7 +6,7 @@ Technical Report Due: February 28th, 2022
 Goals: Produce a orginal research paper based on my experience in the industry and the contents we are learning from this course.
 
 ## Tile: 
-A Threat Intelligence Framework: Mapping CVE to MITRE ATT&CKS for Automotive Security
+Threat Intelligence approach for mapping CVE to MITRE ATT&CK for better vulnerability management in Automotive Security
 
 ## Todo
 - [x] Identify Relevant Literature
